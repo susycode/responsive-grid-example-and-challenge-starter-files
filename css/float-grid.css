@@ -59,15 +59,15 @@
   }
 
   /* 4 columns */
-  .col-4 {
+  .col-4 {    width: 33.3%;
   }
 
   /* 6 columns */
-  .col-6 {
+  .col-6 {    width: 50%;
 
   }
 
   /* 12 columns */
-  .col-12 {
+  .col-12 {width: 100%
   }
 }
